@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Water Overflow", "07. Water Overflow\07. Water Overflow.csproj", "{DAF373E3-5D7B-4E85-8C27-F678B1341BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF373E3-5D7B-4E85-8C27-F678B1341BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF373E3-5D7B-4E85-8C27-F678B1341BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF373E3-5D7B-4E85-8C27-F678B1341BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF373E3-5D7B-4E85-8C27-F678B1341BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F9AFFAD-5E53-4E84-89F1-AB425E27456B}
+	EndGlobalSection
+EndGlobal
