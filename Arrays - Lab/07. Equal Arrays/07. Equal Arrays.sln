@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Equal Arrays", "07. Equal Arrays\07. Equal Arrays.csproj", "{965C4D52-1F76-4741-9770-DD11503DDD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965C4D52-1F76-4741-9770-DD11503DDD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965C4D52-1F76-4741-9770-DD11503DDD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965C4D52-1F76-4741-9770-DD11503DDD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965C4D52-1F76-4741-9770-DD11503DDD60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BC9C0C-6012-4469-83D1-C7F352DB0A5C}
+	EndGlobalSection
+EndGlobal
