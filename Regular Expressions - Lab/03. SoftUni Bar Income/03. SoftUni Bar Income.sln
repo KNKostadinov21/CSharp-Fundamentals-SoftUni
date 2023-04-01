@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. SoftUni Bar Income", "03. SoftUni Bar Income\03. SoftUni Bar Income.csproj", "{D51BFD4F-8C78-4A48-9F00-7B50AD96CECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51BFD4F-8C78-4A48-9F00-7B50AD96CECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51BFD4F-8C78-4A48-9F00-7B50AD96CECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51BFD4F-8C78-4A48-9F00-7B50AD96CECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51BFD4F-8C78-4A48-9F00-7B50AD96CECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28FAD85E-DBCD-441C-A21E-662D477EDB3C}
+	EndGlobalSection
+EndGlobal
